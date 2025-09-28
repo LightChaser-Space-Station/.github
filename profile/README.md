@@ -26,7 +26,3 @@ we seek in 3D vision and chase the light across the galaxy of information.
 
 🚀 **我们的站台，通向未来的无垠宇宙！**  
 🌟 This is our space station—**a haven for tech enthusiasts, explorers, and makers of tomorrow.**
-
-```
-end
-```
